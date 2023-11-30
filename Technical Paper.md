@@ -25,7 +25,7 @@ The records produced are replicated and partitioned to allow a large number of u
 - Connector API
 
 ## Conclusion
-In microservices Architecture Apache services acts as a real-time databus that allows different services to talk to each other.
+In microservices architecture, Apache services acts as a real-time databus that allows different services to talk to each other.
 Kafka is quite complicated and has a steep learning curve. It requires some expertise for setup, scaling and maintenance which might not be suitable for smaller startups.
 
 ## References:
