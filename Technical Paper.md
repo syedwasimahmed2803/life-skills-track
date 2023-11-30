@@ -6,7 +6,7 @@ Originally developed at LinkedIn, Kafka addresses the challenge of ingesting hig
 It operates as a cluster that can extend across multiple servers or data centers. 
 The records produced are replicated and partitioned to allow a large number of users to use the application simultaneously without perceptible performance lag.
 
-## Key Benefits of Apache Kafka:
+## Features of Apache Kafka:
 - Fast
 - Highly accurate
 - Maintains the order of occurrence
