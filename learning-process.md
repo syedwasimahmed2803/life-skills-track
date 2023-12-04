@@ -1,4 +1,4 @@
-#Learning Process
+# Learning Process
 
 ## Answer 1
 - The Feynman Technique is a learning method that involves teaching a concept in simple terms to enhance understanding.
