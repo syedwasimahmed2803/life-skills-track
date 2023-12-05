@@ -10,9 +10,7 @@
 
 ### Answer 2
 - The listener should be fully engaged in the conversation and avoid distractions.
-- The listener should try to understand the speaker's point of view and feelings.
 - The listener should reflect back to the speaker the main points of what they have said.
-- The listener should summarize the conversation at key points to ensure that they understand the speaker correctly.
 - The listener should pay attention to nonverbal cues, such as facial expressions, body language, and tone of voice, to get a better understanding of the speaker's meaning.
 - The listener should avoid judging the speaker or their message.
 
