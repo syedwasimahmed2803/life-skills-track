@@ -11,3 +11,18 @@ People with an internal locus of control believe that they have control over the
 The best way to develop an internal locus of control is to solve problems in your own life and then take some time to appreciate the fact that it was your actions that solved the problem. People with an internal locus of control are more likely to be motivated, persistent, and resilient. They are also less likely to be discouraged by setbacks.
 
 # Answer 4
+According to the speaker, the key points to build growth mindset are:
+- Believe in your ability to figure things out.
+- Question your assumptions.
+- Develop your own life curriculum.
+- Honor the struggle
+
+# Answer 5
+My ideas to take action and build a growth mindset:
+- Embracing challenges and viewing them as opportunities to learn and grow.
+- Focusing on effort and process, not just the outcome.
+- Believing that hard work and dedication can lead to success.
+- Asking feedback from others and being open to constructive criticism.
+- Reflecting on mistakes and using them to identify areas of improvement.
+- Replacing negative self-talk with positive affirmations.
+
