@@ -43,3 +43,15 @@ The book suggests that to make a habit harder to do, you should:
 - Remove the things that make the habit rewarding
 
 ### Answer 8
+I would like to read more books. The steps that you I would take to make it more attractive or easy would be:
+- Setting a daily reminder on my phone to allocate time for reading
+- Create a cozy reading nook at home
+- Starting with shorter reading sessions and gradually increaseing time. 
+- After finishing a book, treating myself to a small reward.
+
+### Answer 9
+The habit I would like to eliminate is mindless slacking while studying. The steps that you I would take to make it more unattractive or difficult would be:
+- Designate a specific study area free from distractions
+- Turn off unnecessary electronic devices or use website blockers during study sessions
+- Break down study sessions into focused intervals with planned breaks
+
