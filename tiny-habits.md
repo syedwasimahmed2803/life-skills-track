@@ -8,7 +8,6 @@ The Tiny Habits method is a way to use the B = MAP formula to make it easier to 
 - Shrink the behavior
 - Identify an action prompt
 - Celebrate your successes
-  
 B = MAP stands for Behavior = Motivation + Ability + Prompt.
 M is Motivation, which is your desire or willingness to do something.
 A is Ability, which is your capacity to do something.
